@@ -14,11 +14,11 @@
 
 
 
-
 ## 相關筆記
 
 | Link | GitHub |
 | ---- | ------ |
+| [Debian Live Build 探索筆記](https://samwhelp.github.io/note-about-debian-live-build/) | [GitHub](https://github.com/samwhelp/note-about-debian-live-build) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
 | [Arch Linux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 | [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
