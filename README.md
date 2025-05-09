@@ -14,14 +14,26 @@
 
 
 
+## GRUB
+
+| [GRUB 探索筆記](https://samwhelp.github.io/note-about-grub/) |
+| --- |
+| [Boot ISO By GRUB](https://samwhelp.github.io/note-about-grub/read/howto/boot_iso.html) |
+| [Create Live Usb Disk for Uefi](https://samwhelp.github.io/note-about-grub/read/howto/boot-iso/create-live-usb-disk-for-uefi.html) |
+| [Create Live Usb Disk for Bios](https://samwhelp.github.io/note-about-grub/read/howto/boot-iso/create-live-usb-disk-for-bios.html) |
+
+
+
+
 ## 相關筆記
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian Live Build 探索筆記](https://samwhelp.github.io/note-about-debian-live-build/) | [GitHub](https://github.com/samwhelp/note-about-debian-live-build) |
+| [Remix Linux Distro ISO 探索筆記](https://samwhelp.github.io/note-about-remix-linux-distro-iso/) | [GitHub](https://github.com/samwhelp/note-about-remix-linux-distro-iso) |
 | [Debian 探索筆記](https://samwhelp.github.io/note-about-debian/) | [GitHub](https://github.com/samwhelp/note-about-debian) |
-| [Arch Linux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
+| [Debian Live Build 探索筆記](https://samwhelp.github.io/note-about-debian-live-build/) | [GitHub](https://github.com/samwhelp/note-about-debian-live-build) |
 | [Eznixos 探索筆記](https://samwhelp.github.io/note-about-eznixos/) | [GitHub](https://github.com/samwhelp/note-about-eznixos) |
+| [Arch Linux 探索筆記](https://samwhelp.github.io/note-about-archlinux/) | [GitHub](https://github.com/samwhelp/note-about-archlinux) |
 | [Ezarcher 探索筆記](https://samwhelp.github.io/note-about-ezarcher/) | [GitHub](https://github.com/samwhelp/note-about-ezarcher) |
 
 
