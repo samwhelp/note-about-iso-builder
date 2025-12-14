@@ -12,6 +12,8 @@
 | [AnduinOS ISO Builder 探索筆記](https://samwhelp.github.io/note-about-anduinos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-iso-builder) |
 | [GXDE ISO Builder 探索筆記](https://samwhelp.github.io/note-about-gxde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-gxde-iso-builder) |
 | [Archlinux ISO Builder 探索筆記](https://samwhelp.github.io/note-about-archlinux-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-iso-builder) |
+| [Voidlinux ISO Builder 探索筆記](https://samwhelp.github.io/note-about-voidlinux-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-iso-builder) |
+| [Brgvos ISO Builder 探索筆記](https://samwhelp.github.io/note-about-brgvos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-brgvos-iso-builder) |
 
 
 
