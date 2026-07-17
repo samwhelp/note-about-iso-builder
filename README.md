@@ -10,6 +10,8 @@
 | [Debian ISO Builder 探索筆記](https://samwhelp.github.io/note-about-debian-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-debian-iso-builder) |
 | [Ubuntu ISO Builder 探索筆記](https://samwhelp.github.io/note-about-ubuntu-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-ubuntu-iso-builder) |
 | [AnduinOS ISO Builder 探索筆記](https://samwhelp.github.io/note-about-anduinos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-iso-builder) |
+| [LinuxMint ISO Builder 探索筆記](https://samwhelp.github.io/note-about-linuxmint-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-iso-builder) |
+| [Lmde ISO Builder 探索筆記](https://samwhelp.github.io/note-about-lmde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-lmde-iso-builder) |
 | [GXDE ISO Builder 探索筆記](https://samwhelp.github.io/note-about-gxde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-gxde-iso-builder) |
 | [Archlinux ISO Builder 探索筆記](https://samwhelp.github.io/note-about-archlinux-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-iso-builder) |
 | [Voidlinux ISO Builder 探索筆記](https://samwhelp.github.io/note-about-voidlinux-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-iso-builder) |
@@ -60,6 +62,15 @@
 | [ubuntu-iso-builder-template](https://samwhelp.github.io/ubuntu-iso-builder-template/) | [GitHub](https://github.com/samwhelp/ubuntu-iso-builder-template) |
 | [debian-iso-builder-engine-develop](https://samwhelp.github.io/debian-iso-builder-engine-develop/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-engine-develop) |
 | [debian-iso-builder-template](https://samwhelp.github.io/debian-iso-builder-template/) | [GitHub](https://github.com/samwhelp/debian-iso-builder-template) |
+
+
+
+
+| Link | GitHub |
+| ---- | ------ |
+| [anduinos-iso-builder-template](https://samwhelp.github.io/anduinos-iso-builder-template/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-template) |
+| [linuxmint-iso-builder-template](https://samwhelp.github.io/linuxmint-iso-builder-template/) | [GitHub](https://github.com/samwhelp/linuxmint-iso-builder-template) |
+| [lmde-iso-builder-template](https://samwhelp.github.io/lmde-iso-builder-template/) | [GitHub](https://github.com/samwhelp/lmde-iso-builder-template) |
 
 
 
