@@ -98,15 +98,6 @@
 
 
 
-| Link | GitHub |
-| ---- | ------ |
-| [anduinos-iso-builder-template](https://samwhelp.github.io/anduinos-iso-builder-template/) | [GitHub](https://github.com/samwhelp/anduinos-iso-builder-template) |
-| [linuxmint-iso-builder-template](https://samwhelp.github.io/linuxmint-iso-builder-template/) | [GitHub](https://github.com/samwhelp/linuxmint-iso-builder-template) |
-| [lmde-iso-builder-template](https://samwhelp.github.io/lmde-iso-builder-template/) | [GitHub](https://github.com/samwhelp/lmde-iso-builder-template) |
-
-
-
-
 ## 相關筆記
 
 | Link | GitHub |
