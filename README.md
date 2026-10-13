@@ -20,6 +20,7 @@
 | [AnduinOS ISO Builder 探索筆記](https://samwhelp.github.io/note-about-anduinos-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-anduinos-iso-builder) |
 | [LinuxMint ISO Builder 探索筆記](https://samwhelp.github.io/note-about-linuxmint-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-linuxmint-iso-builder) |
 | [Lmde ISO Builder 探索筆記](https://samwhelp.github.io/note-about-lmde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-lmde-iso-builder) |
+| [Pardus ISO Builder 探索筆記](https://samwhelp.github.io/note-about-pardus-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-pardus-iso-builder) |
 | [GXDE ISO Builder 探索筆記](https://samwhelp.github.io/note-about-gxde-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-gxde-iso-builder) |
 | [Archlinux ISO Builder 探索筆記](https://samwhelp.github.io/note-about-archlinux-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-archlinux-iso-builder) |
 | [Voidlinux ISO Builder 探索筆記](https://samwhelp.github.io/note-about-voidlinux-iso-builder/) | [GitHub](https://github.com/samwhelp/note-about-voidlinux-iso-builder) |
@@ -71,6 +72,7 @@
 | [anduinso-live-custom-template](https://github.com/samwhelp/anduinos-live-custom-template) |
 | [linuxmint-live-custom-template](https://github.com/samwhelp/linuxmint-live-custom-template) |
 | [lmde-live-custom-template](https://github.com/samwhelp/lmde-live-custom-template) |
+| [pardus-live-custom-template](https://github.com/samwhelp/pardus-live-custom-template) |
 
 
 | ISO Builder Template |
